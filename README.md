@@ -12,6 +12,9 @@ Biz kimseye düşmanlık beslemeyiz besleyenlerde umrumuzda olmaz.
 ![image](https://github.com/darkcim/finish/assets/125148735/fdcd97ed-074e-4e3e-8e38-55ca489f4939)
 ![image](https://github.com/darkcim/finish/assets/125148735/601c1d24-6930-4dec-b930-d9fcd04ce427)
 ![image](https://github.com/darkcim/finish/assets/125148735/d813a34b-a57b-4dcb-9d34-d56d6d93a3c2)
+![image](https://github.com/darkcim/finish/assets/125148735/6da0979d-2b2a-4650-ba39-af63e734e60c)
+![image](https://github.com/darkcim/finish/assets/125148735/34fab15d-54b0-4970-927f-ba8d90a9daaa)
+
 
 
 
