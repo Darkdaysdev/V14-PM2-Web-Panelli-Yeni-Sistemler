@@ -73,11 +73,8 @@ Sattığımız botların bazı kendini bilmezler tarafından paylaşılması son
   
 # Siteden Görüntüler
 
-Site hazır bi alt yapınındır editlenip sıfırdan apisi ve botu yapıldı biz tarafından geliştirmeye çalışıyoruz kimseyle yarıştığımız yok.
+#YAKINDA
   
-![image](https://github.com/darkcim/V14-PM2-Yeni-Sistemler/assets/125148735/f827a648-618d-4368-a3e6-a6fcbf4c7753)
-![image](https://github.com/darkcim/V14-PM2-Yeni-Sistemler/assets/125148735/908447ca-3432-4062-998b-84406a8f6077)
-![image](https://github.com/darkcim/V14-PM2-Yeni-Sistemler/assets/125148735/f350b867-d3b6-410d-9a0f-2521c205c8c1)
-![image](https://github.com/darkcim/V14-PM2-Yeni-Sistemler/assets/125148735/659b49e1-87f9-4ddc-8700-ff76352b08ac)
+
 
 [![Discord Profilim](https://lanyard.cnrad.dev/api/901094423033708576)](https://discord.com/users/901094423033708576) [![Discord Profilim](https://lanyard.cnrad.dev/api/1256494171196227594)](https://discord.com/users/1256494171196227594)
