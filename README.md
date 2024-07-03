@@ -8,6 +8,8 @@ Sattığımız botların bazı kendini bilmezler tarafından paylaşılması son
 ![image](https://github.com/darkcim/V14-PM2-Yeni-Sistemler/assets/125148735/e28b3f3b-42f8-4ed3-b96a-c27e7fcdc326)
 ![image](https://github.com/darkcim/V14-PM2-Yeni-Sistemler/assets/125148735/16108a18-da87-4792-84c2-f3585be8496f)
 ![image](https://github.com/darkcim/V14-PM2-Yeni-Sistemler/assets/125148735/b781dc61-1c6a-49ad-8f0b-e7433369addf)
+![image](https://github.com/darkcim/V14-PM2-Web-Panelli-Yeni-Sistemler/assets/125148735/57143527-1f47-43c9-a2c1-f54341c6b114)
+
 
 # Eğlence Komutları
 
