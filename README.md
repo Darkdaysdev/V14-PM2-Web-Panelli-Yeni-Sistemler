@@ -10,6 +10,10 @@ Sattığımız botların bazı kendini bilmezler tarafından paylaşılması son
 ![image](https://github.com/user-attachments/assets/531b08ef-f7e3-4662-8653-cb3936ec732d)
 ![image](https://github.com/user-attachments/assets/b3bee324-c5b0-4b34-8400-84c5c934441e)
 ![image](https://github.com/user-attachments/assets/57c5766d-4b63-44cd-9a00-74ff978eab46)
+![image](https://github.com/user-attachments/assets/f514b67c-6418-4a57-9a70-cb66269525ea)
+![image](https://github.com/user-attachments/assets/6f8273cf-8f86-4693-9391-7f5b3f0db727)
+![image](https://github.com/user-attachments/assets/9dce91e6-2499-43b4-9118-456f36e9e590)
+![image](https://github.com/user-attachments/assets/3d600583-7d96-4fa9-9f6a-6ea98b1a8f64)
 
 # Cezalandırma Komutları
 ![image](https://github.com/user-attachments/assets/7c4d7180-8240-41fa-bbb6-dfc0a529ffdd)
