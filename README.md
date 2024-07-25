@@ -31,6 +31,12 @@ Sattığımız botların bazı kendini bilmezler tarafından paylaşılması son
 # Yetkili & Üst Yetkili Komutları
 ![image](https://github.com/user-attachments/assets/10e04668-8177-4db6-9e01-1a3530a4e411)
 ![image](https://github.com/user-attachments/assets/d4983942-e4d5-4b05-86d2-4b00f18cb82c)
+![image](https://github.com/user-attachments/assets/5d6cc9f1-7b1c-4fa2-acd1-159f19d1f92a)
+![image](https://github.com/user-attachments/assets/ae85732b-8320-49bf-bf02-3fe6b0414a73)
+![image](https://github.com/user-attachments/assets/f133993b-9ed3-4f10-b5f5-6456198c8022)
+![image](https://github.com/user-attachments/assets/beaecc7e-ea94-431a-82ca-eca75a2c917a)
+![image](https://github.com/user-attachments/assets/d81b4c29-e475-47c0-bf07-6d8c12362e32)
+![image](https://github.com/user-attachments/assets/3faeb90f-e41e-4136-adc6-f50ce94ca7d2)
 
 # Stat Komutları
 ![image](https://github.com/user-attachments/assets/591e278f-c7ed-43bc-b9b7-09ff1501c8d2)
