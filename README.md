@@ -1,5 +1,7 @@
 Sattığımız botların bazı kendini bilmezler tarafından paylaşılması sonucu yeni botlar yaptık geliştirdik elimizden geldiğince göze sürekli aynısı değilde farklısı gözüksün diye çalıştık ve kendimiz sitesi için apisinide yaptık web botu üzerinden yönetim panelli botlar herşeyi 0 dan yazılıdı en baştan kimsenin altyapısı kodu kullanılmadı burada gelipte ozi cart curt demeyin boş ötmeyin fotoğrafları aşağıya bıraktık site şuan kullanılır ama bitmedi işi var hala bir süre sonra satılığa çıkaracağız tüm komutları atmadık görsel olarak aklınıza gelebilecek her türlü bir bot setuplu kurulumlu v15 resmi olarak çıktığında v15 e güncelleyeceğiz.
-Altyapıda desteklerini esirgemeyen [CartelFx](<https://discord.com/users/719117042904727635>) [Only](<https://discord.com/users/331791735938351106>) [Fristy](<https://discord.com/users/1189257598512418823>) [Serkancan](<https://discord.com/users/1256494171196227594>) ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
+Altyapıda desteklerini esirgemeyen [CartelFx](<https://discord.com/users/719117042904727635>) [Only](<https://discord.com/users/331791735938351106>) [Fristy](<https://discord.com/users/1189257598512418823>) [Serkancan](<https://discord.com/users/1256494171196227594>) 
+[Ramal](<https://discord.com/users/490096318807801876>)
+ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
 
 # Kullanıcı Komutları 
 ![image](https://github.com/user-attachments/assets/2ab059ba-2343-4107-969a-2f38f7490a9e)
