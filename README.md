@@ -59,7 +59,7 @@ ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
 ![image](https://github.com/user-attachments/assets/48e5cf13-bcbe-4640-a28c-f4a08fe763ef)
 ![image](https://github.com/user-attachments/assets/3e9d6884-6970-48e9-82be-d5505a0bcd94)
 ![image](https://github.com/user-attachments/assets/fe5a30b9-6b29-4655-b77c-5860a403ff8c)
-![image](https://github.com/user-attachments/assets/26adcd49-0698-438a-a97b-b1511436fe0f)
+![image](https://github.com/user-attachments/assets/000b37bd-1f4a-4721-88a2-42db1a9b0d31)
 
 # Other 
 ![image](https://github.com/user-attachments/assets/e86a8eed-faf7-45bb-ab90-f24cd1176fde)
