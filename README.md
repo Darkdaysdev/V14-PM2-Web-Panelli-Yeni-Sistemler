@@ -22,7 +22,6 @@ ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
 ![image](https://github.com/user-attachments/assets/7c4d7180-8240-41fa-bbb6-dfc0a529ffdd)
 ![image](https://github.com/user-attachments/assets/bd2820a1-7edc-4f11-966f-23db47432850)
 ![image](https://github.com/user-attachments/assets/af622688-7cef-426c-8159-88423477d88b)
-![image](https://github.com/user-attachments/assets/385456ce-bc36-46b1-b6f6-a2aad4d3c2d2)
 ![image](https://github.com/user-attachments/assets/e30ee393-a7c9-46de-8fb2-de7d3fc6b042)
 
 # Register Komutları
@@ -30,7 +29,7 @@ ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
 ![image](https://github.com/user-attachments/assets/a606139d-f425-4e61-be61-02b16f41f64a)
 ![image](https://github.com/user-attachments/assets/4500d417-02fb-438c-87f3-6f5848784f56)
 ![image](https://github.com/user-attachments/assets/30a004fd-ee06-47db-b630-c85149f6873e)
-  
+
 # Yetkili & Üst Yetkili Komutları
 ![image](https://github.com/user-attachments/assets/10e04668-8177-4db6-9e01-1a3530a4e411)
 ![image](https://github.com/user-attachments/assets/d4983942-e4d5-4b05-86d2-4b00f18cb82c)
@@ -60,8 +59,12 @@ ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
 ![image](https://github.com/user-attachments/assets/48e5cf13-bcbe-4640-a28c-f4a08fe763ef)
 ![image](https://github.com/user-attachments/assets/3e9d6884-6970-48e9-82be-d5505a0bcd94)
 ![image](https://github.com/user-attachments/assets/fe5a30b9-6b29-4655-b77c-5860a403ff8c)
+![image](https://github.com/user-attachments/assets/26adcd49-0698-438a-a97b-b1511436fe0f)
 
-  
+# Other 
+![image](https://github.com/user-attachments/assets/e86a8eed-faf7-45bb-ab90-f24cd1176fde)
+![image](https://github.com/user-attachments/assets/385456ce-bc36-46b1-b6f6-a2aad4d3c2d2)
+
 # Siteden Görüntüler
 
 ![image](https://github.com/user-attachments/assets/826a773f-cb58-4b7e-805b-a663f40d1385)
