@@ -4,6 +4,7 @@ Altyapıda desteklerini esirgemeyen [CartelFx](<https://discord.com/users/719117
 ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
 
 # Kullanıcı Komutları 
+![resim](https://github.com/user-attachments/assets/b0362425-7d86-49b1-9116-c1f5164c278c)
 ![resim](https://github.com/user-attachments/assets/0b2e93be-6757-42c9-8df4-cdf0a9da829b)
 ![resim](https://github.com/user-attachments/assets/19116fe8-55fc-495e-a37a-96ad2e4b3fba)
 ![resim](https://github.com/user-attachments/assets/43994780-f7f9-4934-985d-8d880316d322)
