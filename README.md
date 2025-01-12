@@ -1,3 +1,8 @@
+Sattığımız botların bazı kendini bilmezler tarafından paylaşılması sonucu yeni botlar yaptık geliştirdik elimizden geldiğince göze sürekli aynısı değilde farklısı gözüksün diye çalıştık ve kendimiz sitesi için apisinide yaptık web botu üzerinden yönetim panelli botlar herşeyi 0 dan yazılıdı en baştan kimsenin altyapısı kodu kullanılmadı burada gelipte ozi cart curt demeyin boş ötmeyin fotoğrafları aşağıya bıraktık site şuan kullanılır ama bitmedi işi var hala bir süre sonra satılığa çıkaracağız tüm komutları atmadık görsel olarak aklınıza gelebilecek her türlü bir bot setuplu kurulumlu v15 resmi olarak çıktığında v15 e güncelleyeceğiz.
+Altyapıda desteklerini esirgemeyen [CartelFx](<https://discord.com/users/719117042904727635>), [Only](<https://discord.com/users/331791735938351106>), [Fristy](<https://discord.com/users/1189257598512418823>), [Serkancan](<https://discord.com/users/1256494171196227594>) ,
+[Ramal](<https://discord.com/users/490096318807801876>), [Kapsent](<https://discord.com/users/465895434900996098>), [Elchavopy](<https://discord.com/users/1067476859933179954>)
+ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
+
 ![resim](https://github.com/user-attachments/assets/4f31833f-31b9-4384-bc9c-a318118098a2)![resim](https://github.com/user-attachments/assets/72be76b9-b4b6-4c3f-af15-d9cb41a590c8)![resim](https://github.com/user-attachments/assets/56f7ba2c-a979-4e2c-ad00-b12899feaeb3)![resim](https://github.com/user-attachments/assets/d7cf2e4e-0461-43b4-b6d1-d6ac3aef43a2)Sattığımız botların bazı kendini bilmezler tarafından paylaşılması sonucu yeni botlar yaptık geliştirdik elimizden geldiğince göze sürekli aynısı değilde farklısı gözüksün diye çalıştık ve kendimiz sitesi için apisinide yaptık web botu üzerinden yönetim panelli botlar herşeyi 0 dan yazılıdı en baştan kimsenin altyapısı kodu kullanılmadı burada gelipte ozi cart curt demeyin boş ötmeyin fotoğrafları aşağıya bıraktık site şuan kullanılır ama bitmedi işi var hala bir süre sonra satılığa çıkaracağız tüm komutları atmadık görsel olarak aklınıza gelebilecek her türlü bir bot setuplu kurulumlu v15 resmi olarak çıktığında v15 e güncelleyeceğiz.
 Altyapıda desteklerini esirgemeyen [CartelFx](<https://discord.com/users/719117042904727635>), [Only](<https://discord.com/users/331791735938351106>), [Fristy](<https://discord.com/users/1189257598512418823>), [Serkancan](<https://discord.com/users/1256494171196227594>) ,
 [Ramal](<https://discord.com/users/490096318807801876>), [Kapsent](<https://discord.com/users/465895434900996098>), [Elchavopy](<https://discord.com/users/1067476859933179954>)
@@ -40,7 +45,6 @@ ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
 ![resim](https://github.com/user-attachments/assets/bfbea836-fc51-4f79-9a51-4bf6621e5697)
 ![resim](https://github.com/user-attachments/assets/8a352c87-fe6c-4acd-8a7c-e7f5a47a08f4)
 ![resim](https://github.com/user-attachments/assets/6e681ca7-de3d-4c7b-afee-1e7a639f62d9)
-![resim](https://github.com/user-attachments/assets/081c0cea-3dcd-4ac2-bc82-534259b54e7f)
 ![resim](https://github.com/user-attachments/assets/ffb6ed1b-7806-4535-bbac-3efb44fe24bd)
 ![resim](https://github.com/user-attachments/assets/a484d94f-9bcd-4792-bc94-8aebfdf8edc6)
 ![resim](https://github.com/user-attachments/assets/b3f652d8-1bb0-4d2b-b95a-e52e245d7a0c)
