@@ -3,11 +3,6 @@ Altyapıda desteklerini esirgemeyen [CartelFx](<https://discord.com/users/719117
 [Ramal](<https://discord.com/users/490096318807801876>), [Kapsent](<https://discord.com/users/465895434900996098>), [Elchavopy](<https://discord.com/users/1067476859933179954>)
 ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
 
-![resim](https://github.com/user-attachments/assets/4f31833f-31b9-4384-bc9c-a318118098a2)![resim](https://github.com/user-attachments/assets/72be76b9-b4b6-4c3f-af15-d9cb41a590c8)![resim](https://github.com/user-attachments/assets/56f7ba2c-a979-4e2c-ad00-b12899feaeb3)![resim](https://github.com/user-attachments/assets/d7cf2e4e-0461-43b4-b6d1-d6ac3aef43a2)Sattığımız botların bazı kendini bilmezler tarafından paylaşılması sonucu yeni botlar yaptık geliştirdik elimizden geldiğince göze sürekli aynısı değilde farklısı gözüksün diye çalıştık ve kendimiz sitesi için apisinide yaptık web botu üzerinden yönetim panelli botlar herşeyi 0 dan yazılıdı en baştan kimsenin altyapısı kodu kullanılmadı burada gelipte ozi cart curt demeyin boş ötmeyin fotoğrafları aşağıya bıraktık site şuan kullanılır ama bitmedi işi var hala bir süre sonra satılığa çıkaracağız tüm komutları atmadık görsel olarak aklınıza gelebilecek her türlü bir bot setuplu kurulumlu v15 resmi olarak çıktığında v15 e güncelleyeceğiz.
-Altyapıda desteklerini esirgemeyen [CartelFx](<https://discord.com/users/719117042904727635>), [Only](<https://discord.com/users/331791735938351106>), [Fristy](<https://discord.com/users/1189257598512418823>), [Serkancan](<https://discord.com/users/1256494171196227594>) ,
-[Ramal](<https://discord.com/users/490096318807801876>), [Kapsent](<https://discord.com/users/465895434900996098>), [Elchavopy](<https://discord.com/users/1067476859933179954>)
-ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
-
 # Kullanıcı Komutları 
 ![resim](https://github.com/user-attachments/assets/0b2e93be-6757-42c9-8df4-cdf0a9da829b)
 ![resim](https://github.com/user-attachments/assets/19116fe8-55fc-495e-a37a-96ad2e4b3fba)
