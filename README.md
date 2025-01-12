@@ -8,8 +8,6 @@ ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
 ![resim](https://github.com/user-attachments/assets/19116fe8-55fc-495e-a37a-96ad2e4b3fba)
 ![resim](https://github.com/user-attachments/assets/43994780-f7f9-4934-985d-8d880316d322)
 ![resim](https://github.com/user-attachments/assets/30c30a51-7ef2-4412-ab10-3f3d59abad75)
-![resim](https://github.com/user-attachments/assets/5032a837-c2aa-4657-84c2-bde717639b47)
-![resim](https://github.com/user-attachments/assets/718468f0-2940-4036-867f-df204af1bd32)
 ![resim](https://github.com/user-attachments/assets/ff5ec507-5ffb-449f-95fb-86732f864281)
 ![resim](https://github.com/user-attachments/assets/d1f6f749-25d4-4366-9881-4805b47ce52e)
 ![resim](https://github.com/user-attachments/assets/7caa077b-662b-4593-ac96-edd6ceb9db5c)
@@ -34,14 +32,12 @@ ve buraya yazmadığım 2-3 arkadaşlarımada teşekkürlerimi iletiyorum.
 ![resim](https://github.com/user-attachments/assets/73b7c499-f0e7-4a1d-86ba-e50f5aca9ac1)
 ![resim](https://github.com/user-attachments/assets/5a9d7a55-e28b-4ee3-bd31-3c4b74b5e899)
 ![resim](https://github.com/user-attachments/assets/6938e567-5ec4-4bd4-8e0b-244ec309ae5c)
-![resim](https://github.com/user-attachments/assets/6f20ee54-2cd3-4921-8c08-8374e5d0a76f)
 ![resim](https://github.com/user-attachments/assets/f06cb07d-3e25-433a-aa66-4b53261c549d)
 ![resim](https://github.com/user-attachments/assets/7794e4f3-d329-4c3c-8935-80b9113b98a0)
 
 
 # Stat Komutları
 ![resim](https://github.com/user-attachments/assets/bfbea836-fc51-4f79-9a51-4bf6621e5697)
-![resim](https://github.com/user-attachments/assets/813490a8-121d-49e4-a02d-ab343356288e)
 ![resim](https://github.com/user-attachments/assets/8a352c87-fe6c-4acd-8a7c-e7f5a47a08f4)
 ![resim](https://github.com/user-attachments/assets/6e681ca7-de3d-4c7b-afee-1e7a639f62d9)
 ![resim](https://github.com/user-attachments/assets/081c0cea-3dcd-4ac2-bc82-534259b54e7f)
